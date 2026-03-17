@@ -13,7 +13,7 @@
         "command": "workbench.action.previousEditor",
             
     },
-//move active Editor left or right (usefull for Full-stack web dev).
+//move active Editor left or right (usefull for Full-stack web dev)...
     {
         "key": "cmd+ctrl+j",
         "command": "moveActiveEditor",
