@@ -1,6 +1,6 @@
 // Place your key bindings in this file to override the defaults
 // IF CMD+W IS TO CLOSE TAB then surely there must be....
-//Move to your previous/ next Editor..
+//Move to your previous/ next Editor....
 [
     {
         "key": "cmd+k",
