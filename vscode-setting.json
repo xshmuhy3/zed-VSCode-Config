@@ -13,7 +13,7 @@
         "command": "workbench.action.previousEditor",
             
     },
-//move active Editor left or right (usefull for Full-stack web dev)......
+//move active Editor left or right (usefull for Full-stack web dev).
     {
         "key": "cmd+ctrl+j",
         "command": "moveActiveEditor",
@@ -29,14 +29,14 @@
         }
     },
 
-//VSCode Integerated Terminal Commands..
+//VSCode Integerated Terminal Commands.
  
 {
     "key": "cmd+n",
     "command": "workbench.action.terminal.newInActiveWorkspace",
     
 },
-//Half screeen Terminal..
+//Half screeen Terminal.
   {
     "key": "cmd+enter",
     "command": "workbench.action.terminal.toggleTerminal", //minimize terminal or mediumize terminal.
